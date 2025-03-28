@@ -35,14 +35,14 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StunFlyy&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="github-readme-stats-3n0jrry3h-claudio-pintos-projects.vercel.app/api?username=StunFlyy&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StunFlyy&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="github-readme-stats-3n0jrry3h-claudio-pintos-projects.vercel.app/api/top-langs/?username=StunFlyy&layout=compact&theme=dark&count_private=true" alt="Top Languages"/>
 </p>
 
 
