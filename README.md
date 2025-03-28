@@ -17,8 +17,8 @@
 
 ### Connect with Me
 
-[![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.claudiopinto.me)
-[![X (formerly Twitter)](http://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_Pinto_92)
+[![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://linkedin.claudiopinto.me)
+[![X (formerly Twitter)](http://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://x.com/_Pinto_92)
 
 ---
 
