@@ -48,7 +48,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   
   <!-- Ferramentas de UI/UX -->
-  <img src="https://cdn.worldvectorlogo.com/logos/justinmind.svg" alt="Justinmind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   
   <!-- Controlo de Versões -->
