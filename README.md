@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   
   <!-- Ferramentas e Plataformas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/postman.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
