@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-claudio-pintos-projects.vercel.app/api?username=StunFlyy&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-master-claudio-pintos-projects.vercel.app/api?username=StunFlyy&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
